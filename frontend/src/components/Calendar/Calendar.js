@@ -11,7 +11,7 @@ import {
   isCurrentMonth,
   isDateMatch,
   isLeapYear,
-} from '../../lib/date';
+} from 'lib/date';
 import { LEAP_DAYS, REGULAR_DAYS } from './utils/calendarConstants';
 
 import * as s from './styles';
