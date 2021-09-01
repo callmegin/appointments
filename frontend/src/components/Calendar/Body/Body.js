@@ -1,5 +1,5 @@
 import { DAY_NAMES } from '../utils/calendarConstants';
-import { isOldDateMonthsYears } from '../../../lib/date';
+import { isOldDateMonthsYears } from 'lib/date';
 
 import * as s from './styles';
 
