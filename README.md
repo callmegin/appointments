@@ -100,5 +100,3 @@ To start frontend
 
 
 
-![](https://media.giphy.com/media/Y7O3LHmhllEk/giphy.gif?cid=ecf05e4742ytav9pjimov4labzk9oa0qr766ifdqoebci99y&rid=giphy.gif&ct=g)
-
