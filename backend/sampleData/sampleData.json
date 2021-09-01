@@ -1,0 +1,92 @@
+[
+  {
+    "user": {
+      "name": "Spondzbob",
+      "surname": "Skverpents"
+    },
+    "slot": {
+      "slotStart": "2021-09-01T12:00:00.000"
+    }
+  },
+  {
+    "user": {
+      "name": "Tom",
+      "surname": "Jerry"
+    },
+    "slot": {
+      "slotStart": "2021-09-01T16:00:00.000"
+    }
+  },
+  {
+    "user": {
+      "name": "Algis",
+      "surname": "Letai"
+    },
+    "slot": {
+      "slotStart": "2021-09-02T10:00:00.000"
+    }
+  },
+  {
+    "user": {
+      "name": "Ken",
+      "surname": "Adams"
+    },
+    "slot": {
+      "slotStart": "2021-09-02T12:00:00.000"
+    }
+  },
+  {
+    "user": {
+      "name": "Chanandler",
+      "surname": "Bong"
+    },
+    "slot": {
+      "slotStart": "2021-09-03T14:00:00.000"
+    }
+  },
+  {
+    "user": {
+      "name": "Ted",
+      "surname": "Shmosby"
+    },
+    "slot": {
+      "slotStart": "2021-09-03T15:00:00.000"
+    }
+  },
+  {
+    "user": {
+      "name": "Barney",
+      "surname": "Shminson"
+    },
+    "slot": {
+      "slotStart": "2021-09-06T14:00:00.000"
+    }
+  },
+  {
+    "user": {
+      "name": "Just",
+      "surname": "Bob"
+    },
+    "slot": {
+      "slotStart": "2021-09-06T15:00:00.000"
+    }
+  },
+  {
+    "user": {
+      "name": "Vardas",
+      "surname": "Pavarde"
+    },
+    "slot": {
+      "slotStart": "2021-09-07T16:00:00.000"
+    }
+  },
+  {
+    "user": {
+      "name": "Johnie",
+      "surname": "Walker"
+    },
+    "slot": {
+      "slotStart": "2021-09-07T12:00:00.000"
+    }
+  }
+]
