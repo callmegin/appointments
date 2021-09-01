@@ -2,6 +2,8 @@ import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { daySelected } from 'store/calendarSlice';
 import { fetchSlotsData } from 'store/slotsSlice';
+import Header from './Header';
+import Body from './Body';
 import {
   getIsoDateString,
   getFirstDay,
@@ -11,12 +13,10 @@ import {
   isLeapYear,
 } from '../../lib/date';
 import { LEAP_DAYS, REGULAR_DAYS } from './utils/calendarConstants';
-import Header from './Header';
-import Body from './Body';
 
 import * as s from './styles';
 
-const Calendar = ({ selectedCalendarDate }) => {
+const Calendar = () => {
   const state = useSelector((state) => state.calendar);
   const dispatch = useDispatch();
 
