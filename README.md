@@ -6,6 +6,8 @@ User registration is not in scope, since it's assumed that user is already regis
 Requires MongoDB
 
 Styling done with styled-components
+
+###Sample data included. Please read below
   
 ## Environment Variables
 
