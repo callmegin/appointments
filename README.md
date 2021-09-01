@@ -7,7 +7,7 @@ Requires MongoDB
 
 Styling done with styled-components
 
-###Sample data included. Please read below
+### Sample data included. Please read below
   
 ## Environment Variables
 
