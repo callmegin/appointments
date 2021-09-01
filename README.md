@@ -56,6 +56,12 @@ To start frontend
 ```bash
   npm start
 ```
+## Add sample data
+
+```bash
+  npm run seed
+```
+  
   
 ## Backend Dependencies
 
