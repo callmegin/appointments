@@ -8,6 +8,10 @@ Requires MongoDB
 Styling done with styled-components
 
 ### Sample data included. Please read below
+
+
+![](gif.gif)
+
   
 ## Environment Variables
 
